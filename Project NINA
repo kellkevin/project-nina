@@ -1,0 +1,192 @@
+Project: Nina
+Ideas
+13/01/14
+
+
+Character classes
+
+- Soldier: Battler
+- Thief: Moonlighter/Highwayman
+- Mage: Enchanter
+- Healer: Cleric
+- Archer: Ranger
+
+Other classes(Phase Two)
+- Champion
+- Shinobi
+- Eliminator
+- Ronin
+- Enforcer
+
+
+Equipment
+- Body 
+	- major part
+
+- Feet/legs
+	- not really necessary
+
+- Arms
+	- secondary
+
+- Head
+	- secondary
+
+- 2 accessories
+	- secondary
+
+Arms
+- Right Arm
+- Left Arm
+- Utility Weapon
+	- if character equips medium swords, this will be a knife.
+	- 
+
+Weapons
+- Right Arm
+- Left Arm
+- Dual Arms
+
+Weapon Types
+- One Handed
+- Two Handed
+
+Weapon grades: 
+	- Bronze
+	- Iron
+	- Steel
+	- Platinum
+
+
+Brands
+	- Short Sword
+	- Katana
+	- Dao
+	- longsword
+	- Zweihänder
+
+
+
+Bulwarks
+	- Tower Shield
+	- Buckler
+
+Artilery(Range)
+	- Long Bow
+	- Short Bow
+	- Crossbow
+	- Bow Gun
+	- Throwing Knives
+	- Javalin
+
+Combination Weapons
+	- Spears
+	- Knives
+
+Rods, and Staves
+	- mage stuff
+
+- Level Cap:
+	- 60
+	- 100 Exp/Level
+
+- Base Stats
+
+
+- Attributes/Stats
+	- HP
+	- MP
+	- Might
+	- Stamina
+	- Speed
+	- Intelligence
+	- Will
+	- Chance
+	- Movement
+
+- Statuses
+	- Paralyzed: Probably 3 turns before he returns 
+	- Poisoned: 10% of the character's life per turn.
+	- Slow: Characters Aglity is reduced 20 points
+	- Blind: Screen turns black per turn, causing the user to make mistakes with his move. 
+	- Injured: Wounded. Speed and Strength decrease. 
+	- Silenced: character cannot cast spells.
+	- Crazed: Character randomly attacks others.
+
+
+Rules
+=======
+Characters are selected for battle and placed onto the battle screen, which is a grid. Characters have an original attack with either arms. Magic characters will gain MP once it's their turn. The team is made up of 6 characters. Each team will have a phase where they can strike at the characters or move on the board. A turn is done after 2 phases are done. This could change to probably 12 characters. 
+
+- Characters can counterattack if possible from the sides or front.
+- the back adds extra points and reduces Speed
+- Characters will receive EXP based on moves. 
+- If all characters are defeated, on one side, the game is over.
+- If someone submits or there is a connection lost(unwillingly), game's over.
+- before the character officially dies, they go unconcious for two turns and then awake, causing the guage to be used for health instead. The critical health gauge is about 30% of whatever the main bar is. 
+- if all characters are unconcious, the instead battle over
+- if a character dies, it's gone forever
+- if a character gets to the health bar, and the battle is over, the chaaracter will be injured until he is mended.
+- if a team wins, and there are unconcious characters, the victor can choose to hold a unit captive. 
+- if a character is killed on the other team, the opposition earns 50 Gold/ 20 EXP
+- if a character kills three men, he's given a bonus of 300 Gold for the team
+
+
+In battle:
+Actions
+	- Move: Moves a character after a tap(tap character -> select move -> select destination)
+		- characters can move based on their movement stat.
+	- Attack: Character can attack with either right or left arms. (one attack a character a turn)
+		- Characters can choose between which weapon to use. 
+		- Strength + Weapon + Equipment boost + Bonus <- Power of Attack
+		- Speed <- Attack's speed 
+		- Chance * random <- Lucky Strike potential, which does double the damage
+		vs
+		- Strength + Equipment boost <- Power of Defense
+		- Speed <- Defensive move speed
+	- Defend/Wait/Hold : Character can wait after his turn is over.																																																																																																	
+	- Special/Magic: Use a spell or special move. 
+		- casting a spell or special attack: after clicking the spell, the Area of Effect will appear, allowing the user to select a target.
+		- Smallest area of effect: 1 x 1
+		- Other AOE: Cross(5), Line(to the edge of the battlefield), Circle(7 x 7)
+		- Largest Area of Effect: 8 x 8
+		- 30 x 30
+		- Offensive spells
+			- futuristic a bit based on the four elements(Earth, Wind, Water, Fire)
+				- forms
+					- sphere
+						- one hit with an attribute on top. 
+					- Beam
+						- hits in a straight row
+					- pillar
+						- (9 AOE effecting)
+					- storm
+						- 18 AOE
+					- shower
+						- hits every bad guy in sight.
+
+
+		- defensive spells
+			- Minor Healing
+				- Major
+				- All Heal
+			Blocks some attack damage
+			- Physical Defensive
+			- Mind Defensive
+
+			- Medic
+				- heals wounds/antidote
+
+
+Store
+	- buy and sell items(weapons, armor, items)
+	- trading possible units
+	- possible keeping things that were disgarded by others.
+	- discount prices
+
+
+Phase 001
+	- Battle system with basic classes
+	- Male classes
+	- battle area
+	- connector	

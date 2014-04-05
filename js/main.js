@@ -3,7 +3,7 @@
 
 */
 
-enchant();
+//enchant();
 var char = {};
 
 var char = function(strNme){
@@ -12,6 +12,8 @@ var char = function(strNme){
 	this.atk = 20;
 	this.def = 20;
 	*/
+
+	// Statistics
 	with(this){
 		hp = 10;
 	 	mp = 10;
@@ -27,16 +29,22 @@ var char = function(strNme){
 	}
 	// Gear
 	with(this){
-		head = "";
-		rhand = "";
-		lhand = "";
-		body = "";
-		feet = "";
-		acc1 = "";
-		acc2 = "";
+		head = 0;
+		rhand = 0;
+		lhand = 0;
+		body = 0;
+		feet = 0;
+		acc1 = 0;
+		acc2 = 0;
 	}
 
 	console.log(this.nme + " was created!");
+	var thisOne = this;
+
+
+	}
+	console("really?");
+	return thisOne;
 }
 
 /*

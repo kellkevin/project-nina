@@ -1,0 +1,14 @@
+var  arms = [
+		{"weaponName":"Short Sword","atk":8,"rng":0,"description":"A standard regular weapon","type":"blade","price":120 },
+		{"weaponName":"Medium Sword","atk":16,"rng":0,"description":"Court weapon.", "type":"blade","price":450},
+		{"weaponName":"Bronze Sword","atk":25,"rng":0,"description":"Hardened by a kilm. More stronger than a court blade.","price":840},
+		{"weaponName":"Small Shield","def":8,"rng":0,"description":"","type":"shield","price":130},
+		{"weaponName":"Buckler","def":18,"rng":0,"description":"","type":"shield","price":390 },
+		{"weaponName":"Tower Shield","def":23,"rng":0,"description":"","type":"shield","price":720 },
+		{"weaponName":"Bow","atk":11,"rng":8,"description":"","type":"missile","price":140 },
+		{"weaponName":"Long Bow","atk":17,"rng":15,"description":"","type":"missile","price":480 },
+		{"weaponName":"Crossbow","atk":23,"rng":28,"description":"","type":"missile","price":1040  },
+		{"weaponName":"Staff","atk":23,"rng":28,"description":"","type":"blunt","price":210  },
+		{"weaponName":"Knife","atk":11,"rng":14,"description":"","type":"lastresort","price":200  }
+	]
+}

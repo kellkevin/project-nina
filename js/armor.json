@@ -1,0 +1,5 @@
+var  armor = {
+	"armor": [
+		{"armorName":"Leather Breastplate","def":12,"description":"A standard regular weapon","type":"armor","price":120 },
+		]
+	}
